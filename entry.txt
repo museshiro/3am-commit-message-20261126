@@ -1,0 +1,1 @@
+fix: removed the 'are you sure?' prompt, at 3am I am never sure and it was slowing me down
